@@ -1,4 +1,6 @@
 
+![Screenshot](https://github.com/shiv2001tava/Elitmus_Assignment/blob/main/backdrop.jpg)
+
 # Crime & Punishment
 
 Join Detective in her exciting journey to solve probably the biggest case of her career. Called upon from her mush awaited holiday she now has to work hard to catch the culprit and she needs your help. Are you Ready ?
